@@ -2,7 +2,6 @@ streamlit==1.9.2
 spacy==3.3.0
 spacytextblob==4.0.0
 beautifulsoup4==4.11.1
-en-core-web-sm==3.3.0
 imbalanced-learn==0.9.1
 pandas==1.4.2
 numpy==1.21.5
